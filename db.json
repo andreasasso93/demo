@@ -11,5 +11,17 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "catalogo": {
+    "rc": "__OK__",
+    "data": {
+      "catalogo": "esportato"
+    }
+  },
+  "iscrizione": {
+    "rc": "__OK__",
+    "data": {
+      "iscritto": "iscritto"
+    }
   }
 }
